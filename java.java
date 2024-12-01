@@ -1,7 +1,2 @@
-java class{
-
-}
-
-java {
-	
+class java{
 }
